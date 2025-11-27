@@ -1,0 +1,7 @@
+{
+  "name": "Universal Movies Hub",
+  "description": "A premium streaming platform featuring multi-language support, AI-powered metadata generation, and offline download capabilities for movies and web series.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
